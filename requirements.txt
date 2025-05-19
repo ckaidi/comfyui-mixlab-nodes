@@ -30,8 +30,8 @@ natsort>=8.4.0
 
 #simple-lama-inpainting
 
-git+https://github.com/shadowcz007/SenseVoice-python.git
+git+https://githubfast.com/shadowcz007/SenseVoice-python.git
 
 faster_whisper
 
-git+https://github.com/openai/swarm.git
+git+https://githubfast.com/openai/swarm.git
